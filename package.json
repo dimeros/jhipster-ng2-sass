@@ -28,7 +28,9 @@
     "swagger-ui": "2.2.8",
     "ui-router-ng2": "1.0.0-beta.3",
     "ui-router-visualizer": "2.0.11",
-    "zone.js": "0.7.2"
+    "zone.js": "0.7.2",
+
+    "tether": "1.4.0"
   },
   "devDependencies": {
     "@types/angular": "1.5.20",
@@ -75,7 +77,16 @@
     "webpack": "2.1.0-beta.25",
     "webpack-merge": "1.0.2",
     "xml2js": "0.4.17",
-    "yargs": "6.4.0"
+    "yargs": "6.4.0",
+
+
+    "bootstrap-loader": "2.0.0-beta.16",
+    "sass-loader": "4.0.2",
+    "node-sass": "3.13.0",
+    "resolve-url-loader": "1.6.0",
+    "url-loader": "0.5.7",
+
+    "font-awesome-sass-loader": "1.0.2"
   },
   "engines": {
     "node": "^4.3"
